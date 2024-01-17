@@ -1,27 +1,53 @@
-html_content = """<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> MUSIC 147 / IN4MATX 190: Computer Audio and Music Programming>
-    <title> Yuxin He >
     <style>
         body {
             font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
             text-align: center;
-            margin: 50px;
         }
-        h1 {
-            color: #333;
+
+        .header {
+            font-size: 36px;
+            font-weight: bold;
+            margin-top: 50px;
+        }
+
+        .sub-header {
+            font-size: 18px;
+        }
+
+        .divider {
+            width: 50%;
+            margin: 20px auto;
+            border-bottom: 2px solid #000;
+        }
+
+        .content {
+            padding: 20px;
         }
     </style>
+    <title>Your Website</title>
 </head>
 <body>
-    <h1> Welcome to My Personal Website!</h1>
-    <p> My programming work</p>
+
+    <div class="header">
+        MUSIC 147 / IN4MATX 190: Computer Audio and Music Programming
+    </div>
+
+    <div class="sub-header">
+        Yuxin He
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="content">
+        <!-- Space for class program -->
+    </div>
+
 </body>
 </html>
-"""
-
-# 输出 HTML 内容
-print(html_content)
