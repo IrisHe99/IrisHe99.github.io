@@ -33,7 +33,10 @@ h3 {
     margin: 15px auto; 
 }
 h4 {
-    color: white;
     font-size: 20px; 
+    font-weight: normal;
+}
+5 {
+    font-size: 24px; 
     font-weight: normal;
 }
