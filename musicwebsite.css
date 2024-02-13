@@ -1,7 +1,7 @@
 body {
     font-family: Times New Roman, Serif;
     text-align: center;
-    background-color: #113a80d4;
+    background-color: #1B2248;
     background-image: url('../images/M.webp');
     background-size: cover;
     background-position: center;
@@ -47,6 +47,6 @@ footer {
 }
 
 footer p {
-    font-size: 10px;
+    font-size: 12px;
     margin: 2px 0;
 }
