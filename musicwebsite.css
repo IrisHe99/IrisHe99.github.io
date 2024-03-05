@@ -1,7 +1,7 @@
 body {
-    font-family: Times New Roman, Serif;
-    text-stroke:1px rgb(46, 47, 46);
-    -webkit-text-stroke:1px rgb(135, 135, 135);
+    font-family: Tahoma, sans-serif;
+    text-stroke:1px rgb(24, 24, 24);
+    -webkit-text-stroke:1px rgb(80, 80, 80);
     text-align: center;
     background-color: #1B2248;
     background-image: url('images/Piano.png');
@@ -46,6 +46,9 @@ footer {
     color: white; 
     text-align: center;
     padding: 10px;
+    text-stroke:1px rgb(188, 188, 188);
+    -webkit-text-stroke:1px rgb(186, 186, 186);
+    
 }
 
 footer p {
