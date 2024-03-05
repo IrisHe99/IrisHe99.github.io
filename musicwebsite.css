@@ -1,8 +1,10 @@
 body {
     font-family: Times New Roman, Serif;
+    text-stroke:1px rgb(46, 47, 46);
+    -webkit-text-stroke:1px rgb(135, 135, 135);
     text-align: center;
     background-color: #1B2248;
-    background-image: url('../images/M.webp');
+    background-image: url('images/Piano.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
